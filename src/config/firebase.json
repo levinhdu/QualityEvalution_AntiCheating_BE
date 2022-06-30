@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "qualityevalutionanticheating",
+  "private_key_id": "9aa99f7bed0f95b3d5efc95384735c1fa6ffec8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtGVMMy+/nd5Oq\n5D4kTZ44T5OAkd3BfZhny6BQLvq3cSt4x3T12zshDL5mbpOCNgBvOwFJhhjji0gC\n87CBXyH7soHgKNBQdXx+vBp4UnuympxVjiN/BejeYt93o4Q6e0U91PbKitd58E+s\naPKfGA2GEwi8V79UCcNxTgq7l4rkER9XhZvcY1kFVYNiH+YxTAKMLlukV8v8Qwz3\ndWRqRo5pjxL/fVDVayW83OoTph7SlT6ki5A3aQT5ulCUiHKm2cjJGTU/0ynbH6Cy\nWFn7c0TZw9U2qswDtHcM9skizQdK+ztEfdx9wh5l5oHTg1W+U5sLKhrKDw76ZZsT\nMsPawKbzAgMBAAECggEABDdChA8a097gMasnGPhA+xXJEw+6axeAKkBV3Q4VMiQ8\npE+V+X+c6Y78u37u8x7AlPTxcOp7WbNkjhnZpH+o0roEGsMJC89IuHIkDOZ+t8Nh\n57LeCh5z5P1bJvf3D6Y9R1EUBQErrVRyhFGhXcmWrrtw8jFgP2TmJdt6PHESQ2qz\nD3+cwbz25Sd/Wi5h5YSq/a15WS1g2NTYT6LJ+rfrXl5G/DfHVD6r6DFkvhkXDlKN\nKDPdLrvTQ7mWP3osqRvq0Y5MEPQR1seAM+1aPsTMewgQrc1WEpSQwZ6+AlrKPtVn\n4E0Nnft1g0LZ1m54BWddMji0w0stItd4pKwUzT6dzQKBgQDieIGqMrSWJpBn+0lF\n8y2RMzkpfJjV/ZSbLRhG8kdeqS3R6IhG9N2CpASz+3XDbz5EVZ4Ekmry0kk6nTrO\n+f1AFyYe7QfkuOW8wRyI7mOm+oMtgTE6PDZB82hGoR0tUdCtOfB2tg4/rAk0eTBe\n3zLDrUY/DlaZnzPnmjCzffCvzwKBgQDDq0pdfeOWIXQcp/hf1muPNCe9UVslAdu6\n7cQQNYimCs0wi0zlF4nKTlaGNTEbhAOie+K2E8NltMpzbtr+9/ZXOIv+d1b/f2iJ\n0WN1E/NShMnbWOCVPayO1PBuLPuXGZfStLs6Jl7d/uevP7Rg7si/YCawB1MiMbDc\niOdPh0YbnQKBgEHf2Z+fJiYyy3hjgJnHNW7x3mOx6Wb9XteQU2p3mMjxHvHa2KED\nIteYTAHqWAPj/NG1scQUruU4w7I3/94qmz6kPSNrwQsHuVOhPGKcLQJqBfQbiy0s\nTH/8hE1fGfSPwspQeyCcriJZMUhBJA/EjqiaYz9+NTR0OY3ZrObY8ETDAoGBAJSv\n8FW1GSF3kG1KMtJY9OkgP+Z8ER/BFsEodqm+lHVgleYCpM8doOZruxJHD2cSXVS2\ngWPNBtmdlY48OgwwTzCeVrtq4mBK6Bx6UfKg03DsWRvmoNqnwB3VsFJ4ukJq/1Tt\nY6zfhY16a4JfjWlvansKzLtNBZ5hVj1vhx6G8/59AoGAOkc+zkY3go+zadmEZkxV\nIrPTCmyD0AqAv7UbDStM3qjTJqSMrnxCZn/O6IiA0fW7zmWJ1QDB3Hf+jJGezM/J\ni8+NPmEkdH/gPP1vhqUWP3FPmfatUxiXa0yGl7Xuho2m/1tQ9Gog/2qmFRAQSA1A\nFvssqXQSyXBoFGk2M8aBHj8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3qy15@qualityevalutionanticheating.iam.gserviceaccount.com",
+  "client_id": "104411636723486408806",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3qy15%40qualityevalutionanticheating.iam.gserviceaccount.com"
+}
